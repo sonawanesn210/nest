@@ -1,0 +1,71 @@
+<declaration>
+    <attributes>
+        <version>1.0</version>
+    </attributes>
+</declaration>
+<elements>
+    <type>element</type>
+    <name>root</name>
+    <attributes>
+        <town>create</town>
+    </attributes>
+    <elements>
+        <type>element</type>
+        <name>strip</name>
+        <elements>
+            <type>text</type>
+            <text>2192</text>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>bite</name>
+        <elements>
+            <type>element</type>
+            <name>terrible</name>
+            <elements>
+                <type>text</type>
+                <text>crack</text>
+            </elements>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>milk</name>
+        <elements>
+            <type>element</type>
+            <name>spoken</name>
+            <elements>
+                <type>text</type>
+                <text>3108</text>
+            </elements>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>hall</name>
+        <elements>
+            <type>element</type>
+            <name>instance</name>
+            <elements>
+                <type>text</type>
+                <text>beneath entirely lose primitive swing physical tell vegetable</text>
+            </elements>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>sing</name>
+        <elements>
+            <type>element</type>
+            <name>piece</name>
+            <attributes>
+                <soft>individual</soft>
+            </attributes>
+            <elements>
+                <type>text</type>
+                <text>cry cook look somehow hold might through slightly</text>
+            </elements>
+        </elements>
+    </elements>
+</elements>

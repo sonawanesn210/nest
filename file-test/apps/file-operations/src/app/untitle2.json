@@ -1,0 +1,77 @@
+{
+    "error": false,
+    "message": "",
+    "data": {
+        "elements": [
+            {
+                "elements": [
+                    {
+                        "id": "63ff22b5123b2b0383f6bfc3",
+                        "disabled": false,
+                        "required": false,
+                        "defaultValue": [
+                            {
+                                "elementId": "3",
+                                "value": "abc"
+                            },
+                            {
+                                "elementId": "2",
+                                "value": "xyz"
+                            }
+                        ],
+                        "type": "INPUT_SHEET",
+                        "label": "Table1",
+                        "elementId": "EID_c3u82fkx7y",
+                        "hidden": false,
+                        "updatedAt": "Wed Mar 01 2023 15:32:29 GMT+0530 (India Standard Time)",
+                        "createdAt": "Wed Mar 01 2023 15:32:29 GMT+0530 (India Standard Time)",
+                        "unique": false,
+                        "updateIfUnique": false,
+                        "properties": {
+                            "hideLabel": false,
+                            "formID": "63fee7f095ae1488b5309da8",
+                            "allowedActions": [
+                                "ADD",
+                                "UPDATE",
+                                "DELETE"
+                            ]
+                        },
+                        "attributes": {
+                            "subType": "INPUT_SHEET"
+                        },
+                        "dependencies": [],
+                        "validations": [],
+                        "dataType": "ARRAY",
+                        "rbacConf": {
+                            "canReadElementRoles": [],
+                            "canUpdateElementRoles": []
+                        },
+                        "abacConf": {
+                            "canReadSubmissionAttributes": [],
+                            "canUpdateSubmissionAttributes": []
+                        },
+                        "showLabel": true
+                    }
+                ],
+                "tags": [],
+                "canReadRoles": [],
+                "canUpdateRoles": [],
+                "id": "63ff1968123b2b0383f6bfb1",
+                "title": "retrofit all type",
+                "description": "",
+                "icon": "cluster",
+                "type": "MASTER",
+                "color": "#cccccc",
+                "schemaVersion": "string",
+                "createdAt": "Wed Mar 01 2023 14:52:48 GMT+0530 (India Standard Time)",
+                "updatedAt": "Wed Mar 01 2023 15:32:29 GMT+0530 (India Standard Time)",
+                "allowDraft": false,
+                "setDraftInterval": 10,
+                "configurations": {}
+            }
+        ],
+        "next_key": [],
+        "raw": "",
+        "id": ""
+    }
+}

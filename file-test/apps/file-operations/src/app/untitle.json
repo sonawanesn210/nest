@@ -1,0 +1,69 @@
+{
+    "id": "63ff1968123b2b0383f6bfb1",
+    "elements": [
+          {
+                      
+                        "disabled": false,
+                        "required": false,
+                        "defaultValue": [
+                            {
+                                "elementId": "3",
+                                "value": "abc"
+                            },
+                            {
+                                "elementId": "2",
+                                "value": "xyz"
+                            }
+                        ],
+                        "type": "INPUT_SHEET",
+                        "label": "table",
+                        "elementId": "EID_lc5at3j92m",
+                        "hidden": false,
+                        "updatedAt": "Wed Mar 01 2023 13:55:17 GMT+0000 (Coordinated Universal Time)",
+                        "createdAt": "Wed Mar 01 2023 13:55:17 GMT+0000 (Coordinated Universal Time)",
+                        "unique": false,
+                        "updateIfUnique": false,
+                        "properties": {
+                            "options": [],
+                            "hideLabel": false,
+                            "maxResults": 100,
+                            "formID": "63ff59433577e6c1d0889bce",
+                            "allowedActions": [
+                                "ADD",
+                                "UPDATE",
+                                "DELETE"
+                            ]
+                        },
+                        "attributes": {
+                            "Width": 100,
+                            "subType": "INPUT_SHEET"
+                        },
+                        "dependencies": [],
+                        "validations": [],
+                        "dataType": "ARRAY",
+                        "rbacConf": {
+                            "canReadElementRoles": [],
+                            "canUpdateElementRoles": []
+                        },
+                        "abacConf": {
+                            "canReadSubmissionAttributes": [],
+                            "canUpdateSubmissionAttributes": []
+                        },
+                        "showLabel": true
+                    }
+    ],
+    "tags": [],
+    "canReadRoles": [-1],
+    "canUpdateRoles": [-1],
+    "title": "Table",
+    "description": "",
+    "icon": "cluster",
+    "type": "MASTER",
+    "color": "#cccccc",
+    "schemaVersion": "string",
+    "createdAt": "Wed Mar 01 2023 13:54:04 GMT+0000 (Coordinated Universal Time)",
+    "updatedAt":  "Wed Mar 01 2023 13:55:17 GMT+0000 (Coordinated Universal Time)",
+    "allowDraft": false,
+    "setDraftInterval": 10,
+    "configurations": {}
+}

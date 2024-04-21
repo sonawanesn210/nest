@@ -1,0 +1,41 @@
+<declaration>
+    <attributes>
+        <version>1.0</version>
+    </attributes>
+</declaration>
+<elements>
+    <type>element</type>
+    <name>note</name>
+    <elements>
+        <type>element</type>
+        <name>to</name>
+        <elements>
+            <type>text</type>
+            <text>Tove</text>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>from</name>
+        <elements>
+            <type>text</type>
+            <text>Jani</text>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>heading</name>
+        <elements>
+            <type>text</type>
+            <text>Reminder</text>
+        </elements>
+    </elements>
+    <elements>
+        <type>element</type>
+        <name>body</name>
+        <elements>
+            <type>text</type>
+            <text>Don't forget me this weekend!</text>
+        </elements>
+    </elements>
+</elements>
